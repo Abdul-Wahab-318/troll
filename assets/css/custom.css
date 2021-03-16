@@ -14,7 +14,7 @@
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     transition: all 500ms ease;
 }
 .troll-img{
@@ -26,3 +26,4 @@
 .audio{
     opacity: 0;
 }
+
